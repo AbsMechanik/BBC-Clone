@@ -1,1 +1,1 @@
-BBC-Clone
+The focus of this project is to attempt to partly clone the BBC Website using only simple HTML and CSS.
